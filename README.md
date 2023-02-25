@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/images/Captura%20de%20pantalla%202023-02-25%20075519.png)
 
 
 
@@ -61,7 +61,6 @@ Other concepts have been the use of the BEM methodology to be able to guide myse
 
 ### Correction of errors and suggestions.
 
-I had to make several semantic improvements compared to the first final version, such as replacing the divs that grouped the content of the card with (main). In the first version, I used 2 different images without using the (picture) tag. I have learned to use this tag, as well as how to improve the code to make it more semantic and responsive. In terms of the HTML structure, in the first version, there was a (p) tag inside the (button) which has been replaced with a (span) for better practices.
 
 
 
